@@ -1,0 +1,29 @@
+.googlebtn{
+    margin: 0 10px;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    z-index: 2;
+    box-sizing: border-box !important;
+}
+.eUASgT button {
+    background: #e4e2e7 !important;
+    border-radius: 4px;
+}
+.input{
+    width: 80%;
+    position: relative;
+    left: 10%;
+    margin: 2rem 0;
+    background: white;
+}
+.input h4{
+    font-size: 17px;
+    font-weight: 400;
+    background: white;
+}
+.center{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin: 1rem 0;
+}

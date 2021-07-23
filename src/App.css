@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  background-color: #F8F6FA;
+  box-sizing: border-box;
+}
+.container{
+  width: 60vw;
+  height: 85vh;
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  left: 20vw;
+  top: 5vh;
+  display: flex;
+  padding: 40px;
+  flex-basis: 48%;
+  box-shadow: 0 24px 60px -30px #241448 ;
+}

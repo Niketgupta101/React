@@ -1,0 +1,13 @@
+*{
+    outline: none;
+}
+.clear{
+    background: transparent;
+    text-decoration: none;
+}
+.top{
+    width: 80px;
+    height: 10px;
+    background: white;
+    margin-bottom: 1.2rem;
+}
